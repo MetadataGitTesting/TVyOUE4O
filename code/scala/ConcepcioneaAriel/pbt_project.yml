@@ -1,0 +1,63 @@
+name: albertine.ziemann
+description: Synchronised
+version: 0.0.1
+author: goxvbif1.w7ikqthf@wumpxee0.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: albertineziemann
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:31:49'
+pipelines:
+  pipelines/Francoise_CrooksHugo_FirstLeonard_Weimann:
+    name: Francoise_CrooksHugo_FirstLeonard_Weimann
+    description: null
+    author: goxvbif1.w7ikqthf@wumpxee0.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-09-19 23:31:49'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:31:49'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:31:49.838107Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '34036425'
+  createdAt: '2025-09-19T23:31:49.838107Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
